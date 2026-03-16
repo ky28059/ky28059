@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky28059&layout=compact&langs_count=10&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ky28059&layout=compact&langs_count=10&theme=github_dark&exclude_repo=CS354,CS352,CS471)
 
 <!--
 **ky28059/ky28059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
